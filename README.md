@@ -19,5 +19,5 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on improve myself
 - 🌱 I’m currently learning Web Development
-- 💬 Ask me about JavaScript and JS Frameworks
+- 💬 Ask me about JavaScript and their Frameworks
 - 📫 How to reach me: andresdieztuberquia@gmail.com
