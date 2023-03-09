@@ -11,7 +11,7 @@ Here are some ideas to get you started:
   <p align="center">Full Stack Developer with preference for the Backend</p>
   <div>
     <a href="https://www.linkedin.com/in/andressantiagodiez/">LinkedIn</a>
-    <--<a href="https://www.linkedin.com/in/andressantiagodiez/">Portfolio</a>-->
+    <!-- <a href="https://www.linkedin.com/in/andressantiagodiez/">Portfolio</a> -->
   </div>
 </div>
 <br>
